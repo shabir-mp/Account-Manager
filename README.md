@@ -1,4 +1,7 @@
-# Password Manager v1.0 🔐
+<p align="center">
+<img src="https://github.com/shabir-mp/Account-Manager/assets/133546000/af778942-9d02-4199-be1f-895e9cd72ae2" width="150" />
+<h1 align="center">Account Manager v1.0</h1>
+</p>
 
 A simple password manager using Python. This script allows you to view, add, and manage your passwords.
 
@@ -30,3 +33,7 @@ A simple password manager using Python. This script allows you to view, add, and
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+-----------------------------------------------------------------------------------------
+![Github Footer](https://github.com/shabir-mp/Kereta-Api-Indonesia-Booking-System/assets/133546000/c1833fe4-f470-494f-99e7-d583421625be)
+
