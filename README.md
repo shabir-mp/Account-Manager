@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://github.com/shabir-mp/Account-Manager/assets/133546000/af778942-9d02-4199-be1f-895e9cd72ae2" width="150" />
-<h1 align="center">Account Manager v1.0</h1>
+<h1 align="center">Account Manager v2.0</h1>
 </p>
 
 A simple password manager using Python. This script allows you to view, add, and manage your passwords.
