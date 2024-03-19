@@ -37,8 +37,8 @@ A simple password manager using Python. This script allows you to view, add, and
 ## Release History
 | Version | Additional Features | Note |
 | :------: | :------: | :------: |
-| v.2.0.0 | Use temporary and local data. Display fixed | Pre-Release |
-| v.1.0.0 | View Data and Add Data | Latest |
+| v.2.0.0 | Use temporary and local data. Display fixed | Latest |
+| v.1.0.0 | View Data and Add Data | Old-Version |
 
 ## License
 
