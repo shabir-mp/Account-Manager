@@ -19,7 +19,7 @@ A simple password manager using Python. This script allows you to view, add, and
 
 1. Save the code as `password_manager.py`.
 2. Also, save the data file. Applications cannot save local data if data not downloaded
-3. Run the script using `python password_manager.py`.
+3. Run the script using `python main.py`.
 4. Follow the on-screen instructions to manage your passwords.
 
 ## Usage
